@@ -7,7 +7,7 @@ As the CyberBros team, we managed to enter the 4% bracket by placing 79th out of
 This project was developed collaboratively by the following team members:
 
 - Muhammed Nihat Aydın - Team Member
-- Muhammet Hamza Yavuz ([https://github.com/muhammet-hamza-yavuz](https://github.com/hamza37yavuz)) - Team Member
+- ([Muhammet Hamza Yavuz](https://github.com/hamza37yavuz)) - Team Member
 
 ## About the Project
 
